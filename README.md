@@ -33,7 +33,7 @@ A collection of basic Android exercises
 29. **OpenCV 3.0 15-Tile Camera Puzzle** (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-SeanWyndellQue)
 30. **Image Local Binary Pattern** (https://github.com/DeLaSalleUniversity-Manila/LBPFeature-SeanWyndellQue)
 31. **OpenCV 3.0 Mixed-Signal Processing**  (https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-SeanWyndellQue)
-32. **OpenCV 3.0 Face Detection Sample** 
+32. **OpenCV 3.0 Face Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-SeanWyndellQue)
 33. **OpenCV 3.0 Image Manipulations** ()
 34. **Get Current Location and Place a Marker** ()
 35. **Get Neighboring Hospitals** ()
