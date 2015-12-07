@@ -3,9 +3,9 @@
 A collection of basic Android exercises
 
 1. **Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-melvincabatuan)
-2. **Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-melvincabatuan)
-3. **Activity Lifecycle** Introduction (https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-melvincabatuan)
-4. **Display Webpage** (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-melvincabatuan)
+2. **Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-SeanWyndellQue)
+3. **Activity Lifecycle** Introduction (https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-SeanWyndellQue)
+4. **Display Webpage** (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-SeanWyndellQue)
 5. **Linking Android Activities** (https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan)
 6. **WeekDay App using Date Picker Fragment** (https://github.com/DeLaSalleUniversity-Manila/weekdayimproved-melvincabatuan)
 7. **Stopwatch App** (https://github.com/DeLaSalleUniversity-Manila/stopwatchapp-melvincabatuan)
