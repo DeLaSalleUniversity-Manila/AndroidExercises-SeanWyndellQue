@@ -2,7 +2,7 @@
 
 A collection of basic Android exercises
 
-1. **Hello World App Demo** ()
+1. **Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/HelloWorld-SeanWyndellQue)
 2. **Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-SeanWyndellQue)
 3. **Activity Lifecycle** Introduction (https://github.com/DeLaSalleUniversity-Manila/activitylifecycleintroduction-SeanWyndellQue)
 4. **Display Webpage** (https://github.com/DeLaSalleUniversity-Manila/displaywebpagedemo-SeanWyndellQue)
