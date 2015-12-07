@@ -20,7 +20,7 @@ A collection of basic Android exercises
 16. **Buttons Demo** (https://github.com/DeLaSalleUniversity-Manila/ButtonsDemo-SeanWyndellQue)
 17. **Star Rating** (https://github.com/DeLaSalleUniversity-Manila/StarRating-SeanWyndellQue)
 18. **Google Map Marker for DLSU** ()
-19. **Screen Slides** ()
+19. **Screen Slides** (https://github.com/DeLaSalleUniversity-Manila/ScreenSlider-SeanWyndellQue)
 20. **ViewPager with Text-to-Speech Demo** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
 21. **Play Video** ()
 22. **SQLiteDatabase** ()
