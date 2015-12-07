@@ -29,10 +29,10 @@ A collection of basic Android exercises
 25. **WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/Fragment-SeanWyndellQue)
 26. **Grocery App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
 27. **Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua)
-28. **OpenCV 3.0 Camera Preview Example** ()
-29. **OpenCV 3.0 15-Tile Camera Puzzle** ()
-30. **Image Local Binary Pattern** 
-31. **OpenCV 3.0 Mixed-Signal Processing**   
+28. **OpenCV 3.0 Camera Preview Example** (https://github.com/DeLaSalleUniversity-Manila/opencvcamerapreviewsample-SeanWyndellQue)
+29. **OpenCV 3.0 15-Tile Camera Puzzle** (https://github.com/DeLaSalleUniversity-Manila/opencvtilepuzzledemo-SeanWyndellQue)
+30. **Image Local Binary Pattern** (https://github.com/DeLaSalleUniversity-Manila/LBPFeature-SeanWyndellQue)
+31. **OpenCV 3.0 Mixed-Signal Processing**  (
 32. **OpenCV 3.0 Face Detection Sample** 
 33. **OpenCV 3.0 Image Manipulations** ()
 34. **Get Current Location and Place a Marker** ()
