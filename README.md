@@ -34,11 +34,11 @@ A collection of basic Android exercises
 30. **Image Local Binary Pattern** (https://github.com/DeLaSalleUniversity-Manila/LBPFeature-SeanWyndellQue)
 31. **OpenCV 3.0 Mixed-Signal Processing**  (https://github.com/DeLaSalleUniversity-Manila/opencvmixedsignalprocessing-SeanWyndellQue)
 32. **OpenCV 3.0 Face Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/opencvfacedetection-SeanWyndellQue)
-33. **OpenCV 3.0 Image Manipulations** ()
+33. **OpenCV 3.0 Image Manipulations** (https://github.com/DeLaSalleUniversity-Manila/opencvimagemanipulations-SeanWyndellQue)
 34. **Get Current Location and Place a Marker** ()
 35. **Get Neighboring Hospitals** ()
-36. **OpenCV 3.0 Color Blob Detection Sample** ()
-37. **Android Native Camera Access with Native OpenCV Processing through JNI** 
+36. **OpenCV 3.0 Color Blob Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/colorblobdetection-SeanWyndellQue)
+37. **Android Native Camera Access with Native OpenCV Processing through JNI** (https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-SeanWyndellQue)
 38. **Android Camera Bitmap Access through JNI** 
 39. **Cat Face Detection** 
 40. **QR and Bar Code Reader** 
