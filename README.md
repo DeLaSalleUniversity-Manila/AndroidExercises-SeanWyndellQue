@@ -45,10 +45,10 @@ A collection of basic Android exercises
 41. **OpenCV 3.0 Camera Control** (https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-SeanWyndellQue)
 42. **OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** (https://github.com/DeLaSalleUniversity-Manila/addingactionbar-SeanWyndellQue)
 43. **FAST Keypoints** (https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-SeanWyndellQue)
-44. **AKAZE Keypoints** 
-45. **Colored Gray** 
-46. **Twin Camera Effect** 
-47. **Range Seekbar Demo** 
+44. **AKAZE Keypoints** (https://github.com/DeLaSalleUniversity-Manila/akazefeatures-SeanWyndellllQue)
+45. **Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-SeanWyndellQue)
+46. **Twin Camera Effect** (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-SeanWyndellQue)
+47. **Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-SeanWyndellQue)
 48. **Frame Difference (Motion Detect)** 
 49. **Pedestrian Detection** 
 50. **Voronoi Effects** 
