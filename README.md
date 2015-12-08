@@ -39,12 +39,12 @@ A collection of basic Android exercises
 35. **Get Neighboring Hospitals** ()
 36. **OpenCV 3.0 Color Blob Detection Sample** (https://github.com/DeLaSalleUniversity-Manila/colorblobdetection-SeanWyndellQue)
 37. **Android Native Camera Access with Native OpenCV Processing through JNI** (https://github.com/DeLaSalleUniversity-Manila/androidnativecameraaccess-SeanWyndellQue)
-38. **Android Camera Bitmap Access through JNI** 
-39. **Cat Face Detection** 
+38. **Android Camera Bitmap Access through JNI** (https://github.com/DeLaSalleUniversity-Manila/androidcamerabitmapaccess-SeanWyndellQue)
+39. **Cat Face Detection** (https://github.com/DeLaSalleUniversity-Manila/catfacedetection-SeanWyndellQue)
 40. **QR and Bar Code Reader** 
-41. **OpenCV 3.0 Camera Control** ()
-42. **OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** ()
-43. **FAST Keypoints** 
+41. **OpenCV 3.0 Camera Control** (https://github.com/DeLaSalleUniversity-Manila/opencv3-cameracontrol-SeanWyndellQue)
+42. **OpenCV 3.0 Image Manipulations with Action Bar (using AppCompatActivity)** (https://github.com/DeLaSalleUniversity-Manila/addingactionbar-SeanWyndellQue)
+43. **FAST Keypoints** (https://github.com/DeLaSalleUniversity-Manila/fastkeypoints-SeanWyndellQue)
 44. **AKAZE Keypoints** 
 45. **Colored Gray** 
 46. **Twin Camera Effect** 
