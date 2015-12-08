@@ -54,14 +54,10 @@ Google Play: https://play.google.com/store/apps/details?id=wynsean.freshie
 44. **Sensor (Accelerometer) graph with OpenGL** (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-SeanWyndellQue)
 45. **Hello GL2** (https://github.com/DeLaSalleUniversity-Manila/hellogl2-SeanWyndellQue)
 46. **Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-SeanWyndellQue)
-47. **2048 Game** 
-48. **Green Wall Game** 
-49. **Octodroid** 
-50. **Flappy Bird (Clone)** 
-51. **9GAG (Unofficial App)** 
-52. **MP Android Chart Demo** 
-53. **Puzzle Collection** 
-54. **Super Jumper** 
-55. **Super Mario (Android Clone)** 
-56. **Google's Santa Tracker** 
-57. **Forkhub** 
+47. **2048 Game** (https://github.com/DeLaSalleUniversity-Manila/2048-SeanWyndellQue)
+48. **Green Wall Game** (https://github.com/DeLaSalleUniversity-Manila/greenwall-SeanWyndellQue)
+49. **Octodroid** (https://github.com/DeLaSalleUniversity-Manila/octodroid-SeanWyndellQue)
+50. **Flappy Bird (Clone)** (https://github.com/DeLaSalleUniversity-Manila/flappydemo-SeanWyndellQue)
+52. **MP Android Chart Demo** (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-SeanWyndellQue)
+53. **Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/superjumper-SeanWyndellQue)
+54. **Super Mario (Android Clone)** (https://github.com/DeLaSalleUniversity-Manila/supermario-SeanWyndellQue)
