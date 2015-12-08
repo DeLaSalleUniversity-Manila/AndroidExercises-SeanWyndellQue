@@ -49,9 +49,9 @@ A collection of basic Android exercises
 45. **Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-SeanWyndellQue)
 46. **Twin Camera Effect** (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-SeanWyndellQue)
 47. **Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-SeanWyndellQue)
-48. **Frame Difference (Motion Detect)** 
-49. **Pedestrian Detection** 
-50. **Voronoi Effects** 
+48. **Frame Difference (Motion Detect)** (https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-SeanWyndellQue)
+49. **Pedestrian Detection** (https://github.com/DeLaSalleUniversity-Manila/pedestriandetection-SeanWyndellQue)
+50. **Voronoi Effects** (https://github.com/DeLaSalleUniversity-Manila/voronoi-effects-SeanWyndellQue)
 51. **FANN Library in Android** 
 52. **Hello JNI Sample** ()
 53. **Sensor (Accelerometer) graph with OpenGL** ()
