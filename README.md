@@ -1,5 +1,11 @@
 # AndroidExercises-SeanWyndellQue
 
+Final Project:
+
+Github: https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua
+
+Google Play: https://play.google.com/store/apps/details?id=wynsean.freshie
+
 A collection of basic Android exercises
 
 1. **Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/HelloWorld-SeanWyndellQue)
@@ -48,46 +54,14 @@ A collection of basic Android exercises
 44. **Sensor (Accelerometer) graph with OpenGL** (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-SeanWyndellQue)
 45. **Hello GL2** (https://github.com/DeLaSalleUniversity-Manila/hellogl2-SeanWyndellQue)
 46. **Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-SeanWyndellQue)
-47. **Color Reduction** 
-48. **ORB Features OpenCV with Android Experimental Gradle Plugin** 
-49. **BRISK Features OpenCV with Android Experimental Gradle Plugin** 
-50. **AKAZE Features OpenCV with Android Experimental Gradle Plugin** 
-51. **OpenCV 3.0 Android Camera Calibration** 
-52. **Filter2D** 
-53. **ContoursDemo** 
-54. **Circle Detection** 
-55. **Playing with Transparency** 
-56. **Optical Flow** 
-57. **ORB Flow** 
-58. **FAST Flow** 
-59. **AKAZE Flow** 
-60. **Otsu Thresholding** 
-61. **Skin Detector** 
-62. **Image Denoising** 
-63. **LBPYUV** 
-64. **Basic Thresholding** 
-65. **Scharr Gradient** 
-66. **YUV Extraction**
-67. **Native Bitmap Access** 
-68. **Image Histogram** 
-69. **Adaptive Thresholding** 
-70. **DISMATH Refresher App** 
-71. **Full Body Detection** 
-72. **Histogram of Gradients (HOG) Features** 
-73. **Consensus-based Matching and Tracking in Android (CMT Tracker)** 
-74. **Tesseract OCR Demo** ()
-75. **CMT Tracker with AKAZE Features** 
-76. **CMT Tracker with ORB Features** 
-77. **San Angeles** 
-78. **OpenGL ES 3.0 Demo** 
-79. **2048 Game** 
-80. **Green Wall Game** 
-81. **Octodroid** 
-82. **Flappy Bird (Clone)** 
-83. **9GAG (Unofficial App)** 
-84. **MP Android Chart Demo** 
-85. **Puzzle Collection** 
-86. **Super Jumper** 
-87. **Super Mario (Android Clone)** 
-88. **Google's Santa Tracker** 
-89. **Forkhub** 
+47. **2048 Game** 
+48. **Green Wall Game** 
+49. **Octodroid** 
+50. **Flappy Bird (Clone)** 
+51. **9GAG (Unofficial App)** 
+52. **MP Android Chart Demo** 
+53. **Puzzle Collection** 
+54. **Super Jumper** 
+55. **Super Mario (Android Clone)** 
+56. **Google's Santa Tracker** 
+57. **Forkhub** 
