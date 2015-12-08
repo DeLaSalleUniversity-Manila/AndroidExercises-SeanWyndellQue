@@ -1,6 +1,6 @@
 # AndroidExercises-SeanWyndellQue
 
-### Final Project:
+### Final Project
 
 Github: https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua
 
