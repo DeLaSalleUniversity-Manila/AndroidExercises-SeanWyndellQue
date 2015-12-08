@@ -1,12 +1,12 @@
 # AndroidExercises-SeanWyndellQue
 
-Final Project:
+### Final Project:
 
 Github: https://github.com/DeLaSalleUniversity-Manila/Freshie-SeanWyndellQue-SeanHerbieChua
 
 Google Play: https://play.google.com/store/apps/details?id=wynsean.freshie
 
-A collection of basic Android exercises
+### A collection of basic Android exercises
 
 1. **Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/HelloWorld-SeanWyndellQue)
 2. **Prime Number Game** (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-SeanWyndellQue)
