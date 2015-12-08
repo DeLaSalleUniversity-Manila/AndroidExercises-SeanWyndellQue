@@ -47,50 +47,47 @@ A collection of basic Android exercises
 43. **Voronoi Effects** (https://github.com/DeLaSalleUniversity-Manila/voronoi-effects-SeanWyndellQue)
 44. **Sensor (Accelerometer) graph with OpenGL** (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-SeanWyndellQue)
 45. **Hello GL2** (https://github.com/DeLaSalleUniversity-Manila/hellogl2-SeanWyndellQue)
-56. **Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-SeanWyndellQue)
-57. **Face Detection in OpenCV with Gradle Experimental Plugin** (
-58. **Canny Edge OpenCV with Android Experimental Gradle Plugin** 
-59. **Color Reduction** 
-60. **ORB Features OpenCV with Android Experimental Gradle Plugin** 
-61. **BRISK Features OpenCV with Android Experimental Gradle Plugin** 
-62. **AKAZE Features OpenCV with Android Experimental Gradle Plugin** 
-63. **OpenCV 3.0 Android Camera Calibration** 
-64. **Filter2D** 
-65. **ContoursDemo** 
-66. **Circle Detection** 
-67. **Playing with Transparency** 
-68. **Optical Flow** 
-69. **ORB Flow** 
-70. **FAST Flow** 
-71. **AKAZE Flow** 
-72. **Otsu Thresholding** 
-73. **Skin Detector** 
-74. **Image Denoising** 
-75. **LBPYUV** 
-76. **Basic Thresholding** 
-77. **Scharr Gradient** 
-78. **YUV Extraction**
-79. **Native Bitmap Access** 
-80. **Image Histogram** 
-81. **Adaptive Thresholding** 
-82. **DISMATH Refresher App** 
-83. **Full Body Detection** 
-84. **Histogram of Gradients (HOG) Features** 
-85. **Consensus-based Matching and Tracking in Android (CMT Tracker)** 
-86. **Tesseract OCR Demo** ()
-87. **CMT Tracker with AKAZE Features** 
-88. **CMT Tracker with ORB Features** 
-89. **San Angeles** 
-90. **OpenGL ES 3.0 Demo** 
-91. **2048 Game** 
-92. **Green Wall Game** 
-93. **Octodroid** 
-94. **Flappy Bird (Clone)** 
-95. **9GAG (Unofficial App)** 
-96. **MP Android Chart Demo** 
-97. **Puzzle Collection** 
-98. **Super Jumper** 
-99. **Super Mario (Android Clone)** 
-100. **Google's Santa Tracker** 
-101. **Forkhub** 
-102. 
+46. **Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-SeanWyndellQue)
+47. **Color Reduction** 
+48. **ORB Features OpenCV with Android Experimental Gradle Plugin** 
+49. **BRISK Features OpenCV with Android Experimental Gradle Plugin** 
+50. **AKAZE Features OpenCV with Android Experimental Gradle Plugin** 
+51. **OpenCV 3.0 Android Camera Calibration** 
+52. **Filter2D** 
+53. **ContoursDemo** 
+54. **Circle Detection** 
+55. **Playing with Transparency** 
+56. **Optical Flow** 
+57. **ORB Flow** 
+58. **FAST Flow** 
+59. **AKAZE Flow** 
+60. **Otsu Thresholding** 
+61. **Skin Detector** 
+62. **Image Denoising** 
+63. **LBPYUV** 
+64. **Basic Thresholding** 
+65. **Scharr Gradient** 
+66. **YUV Extraction**
+67. **Native Bitmap Access** 
+68. **Image Histogram** 
+69. **Adaptive Thresholding** 
+70. **DISMATH Refresher App** 
+71. **Full Body Detection** 
+72. **Histogram of Gradients (HOG) Features** 
+73. **Consensus-based Matching and Tracking in Android (CMT Tracker)** 
+74. **Tesseract OCR Demo** ()
+75. **CMT Tracker with AKAZE Features** 
+76. **CMT Tracker with ORB Features** 
+77. **San Angeles** 
+78. **OpenGL ES 3.0 Demo** 
+79. **2048 Game** 
+80. **Green Wall Game** 
+81. **Octodroid** 
+82. **Flappy Bird (Clone)** 
+83. **9GAG (Unofficial App)** 
+84. **MP Android Chart Demo** 
+85. **Puzzle Collection** 
+86. **Super Jumper** 
+87. **Super Mario (Android Clone)** 
+88. **Google's Santa Tracker** 
+89. **Forkhub** 
